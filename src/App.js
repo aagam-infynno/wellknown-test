@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        Testing apple developer merchantid domain association
+        Testing apple developer merchantid domain association 1233
       </header>
     </div>
   );
